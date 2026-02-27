@@ -3,6 +3,7 @@ import "time"
 import "fmt"
 
 func MostrarTiempo(){
+	fmt.Println("---000-tiempo.go---")
 	fmt.Println(time.Now())
 	ahora:=time.Now()
 	fecha:=ahora.Format("02/01/2006")
