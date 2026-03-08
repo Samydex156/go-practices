@@ -1,10 +1,14 @@
 package main
+
 import "fmt"
 
-func main(){
+func main() {
 	fmt.Println("Este es el Proceso principal...")
 	MostrarTiempo()
 	Saludo()
 	MostrarValores()
 	MostrarVariables()
+	MostrarConstantes()
+	MostrarFor()
+	MostrarIfElse()
 }
