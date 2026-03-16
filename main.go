@@ -11,4 +11,5 @@ func main() {
 	MostrarConstantes()
 	MostrarFor()
 	MostrarIfElse()
+	MostrarSwitch()
 }
